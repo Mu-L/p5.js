@@ -35,3 +35,5 @@
   - '\[[xX]\]\s*Friendly Errors'
 "p5.strands":
   - '\[[xX]\]\s*p5.strands'
+"Area:WebGPU":
+  - '\[[xX]\]\s*WebGPU'
