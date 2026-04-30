@@ -16,7 +16,7 @@ function modeAdjust(a, b, c, d, mode) {
   if (mode === constants.CORNER) {
 
     // CORNER mode already corresponds to a bounding box (top-left corner, width, height).
-    // For negative widhts or heights, the absolute value is used.
+    // For negative widths or heights, the absolute value is used.
     bbox = {
       x: a,
       y: b,
