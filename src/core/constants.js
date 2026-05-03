@@ -355,7 +355,7 @@ export const PI = _PI;
 export const QUARTER_PI = _PI / 4;
 
 /**
- * A `Number` constant that's approximately 6.2382.
+ * A `Number` constant that's approximately 6.2832.
  *
  * `TAU` is twice the value of the mathematical constant π. It's useful for
  * many tasks that involve rotation and oscillation. For example, calling
@@ -450,7 +450,7 @@ export const QUARTER_PI = _PI / 4;
 export const TAU = _PI * 2;
 
 /**
- * A `Number` constant that's approximately 6.2382.
+ * A `Number` constant that's approximately 6.2832.
  *
  * `TWO_PI` is twice the value of the mathematical constant π. It's useful for
  * many tasks that involve rotation and oscillation. For example, calling
